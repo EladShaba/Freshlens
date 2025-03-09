@@ -1,6 +1,7 @@
-# Freshlens
-
-![image](https://github.com/user-attachments/assets/f8d4a865-584b-4bf8-afbe-fa5c1091537b)
+# Freshlens - Introduction
+This project was developed as part of an E-commerce applications workshop in Tel Aviv university
+The project was a collaborative effort, bringing together teams of developers, MBA students, and designers to simulate real-world product development processes. 
+With this project we have won first place at the semester-end competition, and earning a perfect score of 100.
 
 ## About
 
