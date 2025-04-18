@@ -180,6 +180,7 @@ Note: This file (code_formatting.py) was created with the assistance of ChatGPT.
 - While there is no publicly available dataset for fruit/vegetable expiration dates, there are several proposed methods to approximate the expiration date using traditional CV techniques. Unfortunately, most of the papers focus on the commercial stage (before the produce arrives at the store), but it should be possible to create similar tests to learn techniques and data that can be adapted for our usage case.
 - We want to expand the TLS connection into mTLS or nginx (reverse proxy etc...).
 - Learn more about Asyncio and multiprocessing as a possible alternative to threading.
+- replacing the LLM component with an LLM MCP component.
 
 ## Configuration
 To run the code there are two possible ways:
